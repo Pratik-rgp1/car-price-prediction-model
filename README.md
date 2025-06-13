@@ -33,13 +33,6 @@ Multiple Linear Regression provided the best balance between performance and int
 
 ✅ Final Model Selected: Multiple Linear Regression
 
-📁 Files
-car_price_data.csv – Dataset used
-
-car_price_prediction.ipynb – Jupyter notebook with code and analysis
-
-model_results.png – Plot comparing model performance
-
 🛠 Technologies
 Python
 
